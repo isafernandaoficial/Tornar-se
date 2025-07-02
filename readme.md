@@ -4,7 +4,7 @@
 <body>
 
 <header>
-  <h1>Tornar-se</h1>
+  <h1><image. Variação da marca.png></h1>
   <p>Psicoterapia Online com profundidade e presença</p>
   <div class="info-box">🌿 4 vagas disponíveis para início imediato | Em breve: unidade presencial em Icaraí</div>
   <a href="#contato" class="btn">Iniciar minha jornada</a>
