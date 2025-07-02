@@ -13,7 +13,7 @@
       padding: 0;
     }
     header {
-      background: url('sua-imagem.jpg') center/cover no-repeat;
+      background:"Variação da marca" center/cover no-repeat;
       color: white;
       text-align: center;
       padding: 100px 20px;
